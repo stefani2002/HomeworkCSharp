@@ -1,0 +1,14 @@
+C:\Users\Stefani Eftimovska\source\repos\ConsoleApp2-100322\HomeworkExercise6\bin\Debug\netcoreapp3.1\HomeworkExercise6.exe
+C:\Users\Stefani Eftimovska\source\repos\ConsoleApp2-100322\HomeworkExercise6\bin\Debug\netcoreapp3.1\HomeworkExercise6.deps.json
+C:\Users\Stefani Eftimovska\source\repos\ConsoleApp2-100322\HomeworkExercise6\bin\Debug\netcoreapp3.1\HomeworkExercise6.runtimeconfig.json
+C:\Users\Stefani Eftimovska\source\repos\ConsoleApp2-100322\HomeworkExercise6\bin\Debug\netcoreapp3.1\HomeworkExercise6.runtimeconfig.dev.json
+C:\Users\Stefani Eftimovska\source\repos\ConsoleApp2-100322\HomeworkExercise6\bin\Debug\netcoreapp3.1\HomeworkExercise6.dll
+C:\Users\Stefani Eftimovska\source\repos\ConsoleApp2-100322\HomeworkExercise6\bin\Debug\netcoreapp3.1\HomeworkExercise6.pdb
+C:\Users\Stefani Eftimovska\source\repos\ConsoleApp2-100322\HomeworkExercise6\obj\Debug\netcoreapp3.1\HomeworkExercise6.csproj.AssemblyReference.cache
+C:\Users\Stefani Eftimovska\source\repos\ConsoleApp2-100322\HomeworkExercise6\obj\Debug\netcoreapp3.1\HomeworkExercise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefani Eftimovska\source\repos\ConsoleApp2-100322\HomeworkExercise6\obj\Debug\netcoreapp3.1\HomeworkExercise6.AssemblyInfoInputs.cache
+C:\Users\Stefani Eftimovska\source\repos\ConsoleApp2-100322\HomeworkExercise6\obj\Debug\netcoreapp3.1\HomeworkExercise6.AssemblyInfo.cs
+C:\Users\Stefani Eftimovska\source\repos\ConsoleApp2-100322\HomeworkExercise6\obj\Debug\netcoreapp3.1\HomeworkExercise6.csproj.CoreCompileInputs.cache
+C:\Users\Stefani Eftimovska\source\repos\ConsoleApp2-100322\HomeworkExercise6\obj\Debug\netcoreapp3.1\HomeworkExercise6.dll
+C:\Users\Stefani Eftimovska\source\repos\ConsoleApp2-100322\HomeworkExercise6\obj\Debug\netcoreapp3.1\HomeworkExercise6.pdb
+C:\Users\Stefani Eftimovska\source\repos\ConsoleApp2-100322\HomeworkExercise6\obj\Debug\netcoreapp3.1\HomeworkExercise6.genruntimeconfig.cache
